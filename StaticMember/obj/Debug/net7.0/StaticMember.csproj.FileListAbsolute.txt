@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\StaticMember\bin\Debug\net7.0\StaticMember.exe
+C:\Users\Asus\Desktop\DotNet\StaticMember\bin\Debug\net7.0\StaticMember.deps.json
+C:\Users\Asus\Desktop\DotNet\StaticMember\bin\Debug\net7.0\StaticMember.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\StaticMember\bin\Debug\net7.0\StaticMember.dll
+C:\Users\Asus\Desktop\DotNet\StaticMember\bin\Debug\net7.0\StaticMember.pdb
+C:\Users\Asus\Desktop\DotNet\StaticMember\obj\Debug\net7.0\StaticMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\StaticMember\obj\Debug\net7.0\StaticMember.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\StaticMember\obj\Debug\net7.0\StaticMember.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\StaticMember\obj\Debug\net7.0\StaticMember.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\StaticMember\obj\Debug\net7.0\StaticMember.dll
+C:\Users\Asus\Desktop\DotNet\StaticMember\obj\Debug\net7.0\refint\StaticMember.dll
+C:\Users\Asus\Desktop\DotNet\StaticMember\obj\Debug\net7.0\StaticMember.pdb
+C:\Users\Asus\Desktop\DotNet\StaticMember\obj\Debug\net7.0\StaticMember.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\StaticMember\obj\Debug\net7.0\ref\StaticMember.dll

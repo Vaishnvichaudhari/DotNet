@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\FileEmployeeArrayToDo\bin\Debug\net7.0\FileEmployeeArrayToDo.exe
+C:\Users\Asus\Desktop\DotNet\FileEmployeeArrayToDo\bin\Debug\net7.0\FileEmployeeArrayToDo.deps.json
+C:\Users\Asus\Desktop\DotNet\FileEmployeeArrayToDo\bin\Debug\net7.0\FileEmployeeArrayToDo.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\FileEmployeeArrayToDo\bin\Debug\net7.0\FileEmployeeArrayToDo.dll
+C:\Users\Asus\Desktop\DotNet\FileEmployeeArrayToDo\bin\Debug\net7.0\FileEmployeeArrayToDo.pdb
+C:\Users\Asus\Desktop\DotNet\FileEmployeeArrayToDo\obj\Debug\net7.0\FileEmployeeArrayToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\FileEmployeeArrayToDo\obj\Debug\net7.0\FileEmployeeArrayToDo.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\FileEmployeeArrayToDo\obj\Debug\net7.0\FileEmployeeArrayToDo.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\FileEmployeeArrayToDo\obj\Debug\net7.0\FileEmployeeArrayToDo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\FileEmployeeArrayToDo\obj\Debug\net7.0\FileEmployeeArrayToDo.dll
+C:\Users\Asus\Desktop\DotNet\FileEmployeeArrayToDo\obj\Debug\net7.0\refint\FileEmployeeArrayToDo.dll
+C:\Users\Asus\Desktop\DotNet\FileEmployeeArrayToDo\obj\Debug\net7.0\FileEmployeeArrayToDo.pdb
+C:\Users\Asus\Desktop\DotNet\FileEmployeeArrayToDo\obj\Debug\net7.0\FileEmployeeArrayToDo.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\FileEmployeeArrayToDo\obj\Debug\net7.0\ref\FileEmployeeArrayToDo.dll

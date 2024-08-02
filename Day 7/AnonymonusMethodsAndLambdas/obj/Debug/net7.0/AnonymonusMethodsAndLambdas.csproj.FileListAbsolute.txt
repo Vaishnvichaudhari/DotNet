@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\Day 7\AnonymonusMethodsAndLambdas\bin\Debug\net7.0\AnonymonusMethodsAndLambdas.exe
+C:\Users\Asus\Desktop\DotNet\Day 7\AnonymonusMethodsAndLambdas\bin\Debug\net7.0\AnonymonusMethodsAndLambdas.deps.json
+C:\Users\Asus\Desktop\DotNet\Day 7\AnonymonusMethodsAndLambdas\bin\Debug\net7.0\AnonymonusMethodsAndLambdas.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\Day 7\AnonymonusMethodsAndLambdas\bin\Debug\net7.0\AnonymonusMethodsAndLambdas.dll
+C:\Users\Asus\Desktop\DotNet\Day 7\AnonymonusMethodsAndLambdas\bin\Debug\net7.0\AnonymonusMethodsAndLambdas.pdb
+C:\Users\Asus\Desktop\DotNet\Day 7\AnonymonusMethodsAndLambdas\obj\Debug\net7.0\AnonymonusMethodsAndLambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\Day 7\AnonymonusMethodsAndLambdas\obj\Debug\net7.0\AnonymonusMethodsAndLambdas.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\Day 7\AnonymonusMethodsAndLambdas\obj\Debug\net7.0\AnonymonusMethodsAndLambdas.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\Day 7\AnonymonusMethodsAndLambdas\obj\Debug\net7.0\AnonymonusMethodsAndLambdas.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\Day 7\AnonymonusMethodsAndLambdas\obj\Debug\net7.0\AnonymonusMethodsAndLambdas.dll
+C:\Users\Asus\Desktop\DotNet\Day 7\AnonymonusMethodsAndLambdas\obj\Debug\net7.0\refint\AnonymonusMethodsAndLambdas.dll
+C:\Users\Asus\Desktop\DotNet\Day 7\AnonymonusMethodsAndLambdas\obj\Debug\net7.0\AnonymonusMethodsAndLambdas.pdb
+C:\Users\Asus\Desktop\DotNet\Day 7\AnonymonusMethodsAndLambdas\obj\Debug\net7.0\AnonymonusMethodsAndLambdas.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\Day 7\AnonymonusMethodsAndLambdas\obj\Debug\net7.0\ref\AnonymonusMethodsAndLambdas.dll

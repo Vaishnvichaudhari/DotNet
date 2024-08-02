@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Desktop\DotNet\Functions\bin\Debug\net7.0\functions.exe
+C:\Users\Asus\OneDrive\Desktop\DotNet\Functions\bin\Debug\net7.0\functions.deps.json
+C:\Users\Asus\OneDrive\Desktop\DotNet\Functions\bin\Debug\net7.0\functions.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\DotNet\Functions\bin\Debug\net7.0\functions.dll
+C:\Users\Asus\OneDrive\Desktop\DotNet\Functions\bin\Debug\net7.0\functions.pdb
+C:\Users\Asus\OneDrive\Desktop\DotNet\Functions\obj\Debug\net7.0\functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\DotNet\Functions\obj\Debug\net7.0\functions.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\DotNet\Functions\obj\Debug\net7.0\functions.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\DotNet\Functions\obj\Debug\net7.0\functions.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\DotNet\Functions\obj\Debug\net7.0\functions.dll
+C:\Users\Asus\OneDrive\Desktop\DotNet\Functions\obj\Debug\net7.0\refint\functions.dll
+C:\Users\Asus\OneDrive\Desktop\DotNet\Functions\obj\Debug\net7.0\functions.pdb
+C:\Users\Asus\OneDrive\Desktop\DotNet\Functions\obj\Debug\net7.0\functions.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\DotNet\Functions\obj\Debug\net7.0\ref\functions.dll

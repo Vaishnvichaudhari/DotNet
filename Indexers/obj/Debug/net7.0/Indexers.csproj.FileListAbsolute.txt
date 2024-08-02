@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\Indexers\bin\Debug\net7.0\Indexers.exe
+C:\Users\Asus\Desktop\DotNet\Indexers\bin\Debug\net7.0\Indexers.deps.json
+C:\Users\Asus\Desktop\DotNet\Indexers\bin\Debug\net7.0\Indexers.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\Indexers\bin\Debug\net7.0\Indexers.dll
+C:\Users\Asus\Desktop\DotNet\Indexers\bin\Debug\net7.0\Indexers.pdb
+C:\Users\Asus\Desktop\DotNet\Indexers\obj\Debug\net7.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\Indexers\obj\Debug\net7.0\Indexers.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\Indexers\obj\Debug\net7.0\Indexers.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\Indexers\obj\Debug\net7.0\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\Indexers\obj\Debug\net7.0\Indexers.dll
+C:\Users\Asus\Desktop\DotNet\Indexers\obj\Debug\net7.0\refint\Indexers.dll
+C:\Users\Asus\Desktop\DotNet\Indexers\obj\Debug\net7.0\Indexers.pdb
+C:\Users\Asus\Desktop\DotNet\Indexers\obj\Debug\net7.0\Indexers.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\Indexers\obj\Debug\net7.0\ref\Indexers.dll

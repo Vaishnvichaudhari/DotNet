@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Desktop\DotNet\HW1\bin\Debug\net7.0\Day2HW1.exe
+C:\Users\Asus\OneDrive\Desktop\DotNet\HW1\bin\Debug\net7.0\Day2HW1.deps.json
+C:\Users\Asus\OneDrive\Desktop\DotNet\HW1\bin\Debug\net7.0\Day2HW1.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\DotNet\HW1\bin\Debug\net7.0\Day2HW1.dll
+C:\Users\Asus\OneDrive\Desktop\DotNet\HW1\bin\Debug\net7.0\Day2HW1.pdb
+C:\Users\Asus\OneDrive\Desktop\DotNet\HW1\obj\Debug\net7.0\Day2HW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\DotNet\HW1\obj\Debug\net7.0\Day2HW1.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\DotNet\HW1\obj\Debug\net7.0\Day2HW1.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\DotNet\HW1\obj\Debug\net7.0\Day2HW1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\DotNet\HW1\obj\Debug\net7.0\Day2HW1.dll
+C:\Users\Asus\OneDrive\Desktop\DotNet\HW1\obj\Debug\net7.0\refint\Day2HW1.dll
+C:\Users\Asus\OneDrive\Desktop\DotNet\HW1\obj\Debug\net7.0\Day2HW1.pdb
+C:\Users\Asus\OneDrive\Desktop\DotNet\HW1\obj\Debug\net7.0\Day2HW1.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\DotNet\HW1\obj\Debug\net7.0\ref\Day2HW1.dll

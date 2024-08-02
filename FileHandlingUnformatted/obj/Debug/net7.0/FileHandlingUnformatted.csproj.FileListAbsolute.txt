@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\FileHandlingUnformatted\bin\Debug\net7.0\FileHandlingUnformatted.exe
+C:\Users\Asus\Desktop\DotNet\FileHandlingUnformatted\bin\Debug\net7.0\FileHandlingUnformatted.deps.json
+C:\Users\Asus\Desktop\DotNet\FileHandlingUnformatted\bin\Debug\net7.0\FileHandlingUnformatted.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\FileHandlingUnformatted\bin\Debug\net7.0\FileHandlingUnformatted.dll
+C:\Users\Asus\Desktop\DotNet\FileHandlingUnformatted\bin\Debug\net7.0\FileHandlingUnformatted.pdb
+C:\Users\Asus\Desktop\DotNet\FileHandlingUnformatted\obj\Debug\net7.0\FileHandlingUnformatted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\FileHandlingUnformatted\obj\Debug\net7.0\FileHandlingUnformatted.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\FileHandlingUnformatted\obj\Debug\net7.0\FileHandlingUnformatted.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\FileHandlingUnformatted\obj\Debug\net7.0\FileHandlingUnformatted.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\FileHandlingUnformatted\obj\Debug\net7.0\FileHandlingUnformatted.dll
+C:\Users\Asus\Desktop\DotNet\FileHandlingUnformatted\obj\Debug\net7.0\refint\FileHandlingUnformatted.dll
+C:\Users\Asus\Desktop\DotNet\FileHandlingUnformatted\obj\Debug\net7.0\FileHandlingUnformatted.pdb
+C:\Users\Asus\Desktop\DotNet\FileHandlingUnformatted\obj\Debug\net7.0\FileHandlingUnformatted.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\FileHandlingUnformatted\obj\Debug\net7.0\ref\FileHandlingUnformatted.dll

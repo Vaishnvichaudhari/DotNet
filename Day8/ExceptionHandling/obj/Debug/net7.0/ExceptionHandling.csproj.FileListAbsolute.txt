@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\Day8\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.exe
+C:\Users\Asus\Desktop\DotNet\Day8\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.deps.json
+C:\Users\Asus\Desktop\DotNet\Day8\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\Day8\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.dll
+C:\Users\Asus\Desktop\DotNet\Day8\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.pdb
+C:\Users\Asus\Desktop\DotNet\Day8\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\Day8\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\Day8\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\Day8\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\Day8\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.dll
+C:\Users\Asus\Desktop\DotNet\Day8\ExceptionHandling\obj\Debug\net7.0\refint\ExceptionHandling.dll
+C:\Users\Asus\Desktop\DotNet\Day8\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.pdb
+C:\Users\Asus\Desktop\DotNet\Day8\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\Day8\ExceptionHandling\obj\Debug\net7.0\ref\ExceptionHandling.dll

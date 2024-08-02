@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\IDisposableExample\bin\Debug\net7.0\IDisposableExample.exe
+C:\Users\Asus\Desktop\DotNet\IDisposableExample\bin\Debug\net7.0\IDisposableExample.deps.json
+C:\Users\Asus\Desktop\DotNet\IDisposableExample\bin\Debug\net7.0\IDisposableExample.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\IDisposableExample\bin\Debug\net7.0\IDisposableExample.dll
+C:\Users\Asus\Desktop\DotNet\IDisposableExample\bin\Debug\net7.0\IDisposableExample.pdb
+C:\Users\Asus\Desktop\DotNet\IDisposableExample\obj\Debug\net7.0\IDisposableExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\IDisposableExample\obj\Debug\net7.0\IDisposableExample.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\IDisposableExample\obj\Debug\net7.0\IDisposableExample.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\IDisposableExample\obj\Debug\net7.0\IDisposableExample.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\IDisposableExample\obj\Debug\net7.0\IDisposableExample.dll
+C:\Users\Asus\Desktop\DotNet\IDisposableExample\obj\Debug\net7.0\refint\IDisposableExample.dll
+C:\Users\Asus\Desktop\DotNet\IDisposableExample\obj\Debug\net7.0\IDisposableExample.pdb
+C:\Users\Asus\Desktop\DotNet\IDisposableExample\obj\Debug\net7.0\IDisposableExample.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\IDisposableExample\obj\Debug\net7.0\ref\IDisposableExample.dll

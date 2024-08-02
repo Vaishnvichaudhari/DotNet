@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\EmployeeTodo\bin\Debug\net7.0\Employeetodo.exe
+C:\Users\Asus\Desktop\DotNet\EmployeeTodo\bin\Debug\net7.0\Employeetodo.deps.json
+C:\Users\Asus\Desktop\DotNet\EmployeeTodo\bin\Debug\net7.0\Employeetodo.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\EmployeeTodo\bin\Debug\net7.0\Employeetodo.dll
+C:\Users\Asus\Desktop\DotNet\EmployeeTodo\bin\Debug\net7.0\Employeetodo.pdb
+C:\Users\Asus\Desktop\DotNet\EmployeeTodo\obj\Debug\net7.0\Employeetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\EmployeeTodo\obj\Debug\net7.0\Employeetodo.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\EmployeeTodo\obj\Debug\net7.0\Employeetodo.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\EmployeeTodo\obj\Debug\net7.0\Employeetodo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\EmployeeTodo\obj\Debug\net7.0\Employeetodo.dll
+C:\Users\Asus\Desktop\DotNet\EmployeeTodo\obj\Debug\net7.0\refint\Employeetodo.dll
+C:\Users\Asus\Desktop\DotNet\EmployeeTodo\obj\Debug\net7.0\Employeetodo.pdb
+C:\Users\Asus\Desktop\DotNet\EmployeeTodo\obj\Debug\net7.0\Employeetodo.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\EmployeeTodo\obj\Debug\net7.0\ref\Employeetodo.dll

@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Desktop\DotNet\Fields&Properties\bin\Debug\net7.0\Fields&Properties.exe
+C:\Users\Asus\OneDrive\Desktop\DotNet\Fields&Properties\bin\Debug\net7.0\Fields&Properties.deps.json
+C:\Users\Asus\OneDrive\Desktop\DotNet\Fields&Properties\bin\Debug\net7.0\Fields&Properties.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\DotNet\Fields&Properties\bin\Debug\net7.0\Fields&Properties.dll
+C:\Users\Asus\OneDrive\Desktop\DotNet\Fields&Properties\bin\Debug\net7.0\Fields&Properties.pdb
+C:\Users\Asus\OneDrive\Desktop\DotNet\Fields&Properties\obj\Debug\net7.0\Fields&Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\DotNet\Fields&Properties\obj\Debug\net7.0\Fields&Properties.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\DotNet\Fields&Properties\obj\Debug\net7.0\Fields&Properties.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\DotNet\Fields&Properties\obj\Debug\net7.0\Fields&Properties.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\DotNet\Fields&Properties\obj\Debug\net7.0\Fields&Properties.dll
+C:\Users\Asus\OneDrive\Desktop\DotNet\Fields&Properties\obj\Debug\net7.0\refint\Fields&Properties.dll
+C:\Users\Asus\OneDrive\Desktop\DotNet\Fields&Properties\obj\Debug\net7.0\Fields&Properties.pdb
+C:\Users\Asus\OneDrive\Desktop\DotNet\Fields&Properties\obj\Debug\net7.0\Fields&Properties.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\DotNet\Fields&Properties\obj\Debug\net7.0\ref\Fields&Properties.dll

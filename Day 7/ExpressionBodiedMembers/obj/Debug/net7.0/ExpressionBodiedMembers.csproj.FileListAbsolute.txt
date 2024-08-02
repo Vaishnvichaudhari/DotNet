@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\Day 7\ExpressionBodiedMembers\bin\Debug\net7.0\ExpressionBodiedMembers.exe
+C:\Users\Asus\Desktop\DotNet\Day 7\ExpressionBodiedMembers\bin\Debug\net7.0\ExpressionBodiedMembers.deps.json
+C:\Users\Asus\Desktop\DotNet\Day 7\ExpressionBodiedMembers\bin\Debug\net7.0\ExpressionBodiedMembers.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\Day 7\ExpressionBodiedMembers\bin\Debug\net7.0\ExpressionBodiedMembers.dll
+C:\Users\Asus\Desktop\DotNet\Day 7\ExpressionBodiedMembers\bin\Debug\net7.0\ExpressionBodiedMembers.pdb
+C:\Users\Asus\Desktop\DotNet\Day 7\ExpressionBodiedMembers\obj\Debug\net7.0\ExpressionBodiedMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\Day 7\ExpressionBodiedMembers\obj\Debug\net7.0\ExpressionBodiedMembers.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\Day 7\ExpressionBodiedMembers\obj\Debug\net7.0\ExpressionBodiedMembers.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\Day 7\ExpressionBodiedMembers\obj\Debug\net7.0\ExpressionBodiedMembers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\Day 7\ExpressionBodiedMembers\obj\Debug\net7.0\ExpressionBodiedMembers.dll
+C:\Users\Asus\Desktop\DotNet\Day 7\ExpressionBodiedMembers\obj\Debug\net7.0\refint\ExpressionBodiedMembers.dll
+C:\Users\Asus\Desktop\DotNet\Day 7\ExpressionBodiedMembers\obj\Debug\net7.0\ExpressionBodiedMembers.pdb
+C:\Users\Asus\Desktop\DotNet\Day 7\ExpressionBodiedMembers\obj\Debug\net7.0\ExpressionBodiedMembers.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\Day 7\ExpressionBodiedMembers\obj\Debug\net7.0\ref\ExpressionBodiedMembers.dll

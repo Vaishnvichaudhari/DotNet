@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Desktop\DotNet\CSProj\bin\Debug\net7.0\CSProj.exe
+C:\Users\Asus\OneDrive\Desktop\DotNet\CSProj\bin\Debug\net7.0\CSProj.deps.json
+C:\Users\Asus\OneDrive\Desktop\DotNet\CSProj\bin\Debug\net7.0\CSProj.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\DotNet\CSProj\bin\Debug\net7.0\CSProj.dll
+C:\Users\Asus\OneDrive\Desktop\DotNet\CSProj\bin\Debug\net7.0\CSProj.pdb
+C:\Users\Asus\OneDrive\Desktop\DotNet\CSProj\obj\Debug\net7.0\CSProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\DotNet\CSProj\obj\Debug\net7.0\CSProj.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\DotNet\CSProj\obj\Debug\net7.0\CSProj.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\DotNet\CSProj\obj\Debug\net7.0\CSProj.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\DotNet\CSProj\obj\Debug\net7.0\CSProj.dll
+C:\Users\Asus\OneDrive\Desktop\DotNet\CSProj\obj\Debug\net7.0\refint\CSProj.dll
+C:\Users\Asus\OneDrive\Desktop\DotNet\CSProj\obj\Debug\net7.0\CSProj.pdb
+C:\Users\Asus\OneDrive\Desktop\DotNet\CSProj\obj\Debug\net7.0\CSProj.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\DotNet\CSProj\obj\Debug\net7.0\ref\CSProj.dll

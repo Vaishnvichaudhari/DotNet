@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\InheritanceToDo\bin\Debug\net7.0\InheritanceToDo.exe
+C:\Users\Asus\Desktop\DotNet\InheritanceToDo\bin\Debug\net7.0\InheritanceToDo.deps.json
+C:\Users\Asus\Desktop\DotNet\InheritanceToDo\bin\Debug\net7.0\InheritanceToDo.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\InheritanceToDo\bin\Debug\net7.0\InheritanceToDo.dll
+C:\Users\Asus\Desktop\DotNet\InheritanceToDo\bin\Debug\net7.0\InheritanceToDo.pdb
+C:\Users\Asus\Desktop\DotNet\InheritanceToDo\obj\Debug\net7.0\InheritanceToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\InheritanceToDo\obj\Debug\net7.0\InheritanceToDo.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\InheritanceToDo\obj\Debug\net7.0\InheritanceToDo.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\InheritanceToDo\obj\Debug\net7.0\InheritanceToDo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\InheritanceToDo\obj\Debug\net7.0\InheritanceToDo.dll
+C:\Users\Asus\Desktop\DotNet\InheritanceToDo\obj\Debug\net7.0\refint\InheritanceToDo.dll
+C:\Users\Asus\Desktop\DotNet\InheritanceToDo\obj\Debug\net7.0\InheritanceToDo.pdb
+C:\Users\Asus\Desktop\DotNet\InheritanceToDo\obj\Debug\net7.0\InheritanceToDo.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\InheritanceToDo\obj\Debug\net7.0\ref\InheritanceToDo.dll

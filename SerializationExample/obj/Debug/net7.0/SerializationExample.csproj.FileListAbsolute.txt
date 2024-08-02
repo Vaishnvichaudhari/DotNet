@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\DotNet\SerializationExample\obj\Debug\net7.0\SerializationExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\SerializationExample\obj\Debug\net7.0\SerializationExample.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\SerializationExample\obj\Debug\net7.0\SerializationExample.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\SerializationExample\obj\Debug\net7.0\SerializationExample.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\SerializationExample\bin\Debug\net7.0\SerializationExample.exe
+C:\Users\Asus\Desktop\DotNet\SerializationExample\bin\Debug\net7.0\SerializationExample.deps.json
+C:\Users\Asus\Desktop\DotNet\SerializationExample\bin\Debug\net7.0\SerializationExample.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\SerializationExample\bin\Debug\net7.0\SerializationExample.dll
+C:\Users\Asus\Desktop\DotNet\SerializationExample\bin\Debug\net7.0\SerializationExample.pdb
+C:\Users\Asus\Desktop\DotNet\SerializationExample\bin\Debug\net7.0\SoapFormatter.dll
+C:\Users\Asus\Desktop\DotNet\SerializationExample\obj\Debug\net7.0\SerializationExample.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\DotNet\SerializationExample\obj\Debug\net7.0\SerializationExample.csproj.CopyComplete
+C:\Users\Asus\Desktop\DotNet\SerializationExample\obj\Debug\net7.0\SerializationExample.dll
+C:\Users\Asus\Desktop\DotNet\SerializationExample\obj\Debug\net7.0\refint\SerializationExample.dll
+C:\Users\Asus\Desktop\DotNet\SerializationExample\obj\Debug\net7.0\SerializationExample.pdb
+C:\Users\Asus\Desktop\DotNet\SerializationExample\obj\Debug\net7.0\SerializationExample.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\SerializationExample\obj\Debug\net7.0\ref\SerializationExample.dll

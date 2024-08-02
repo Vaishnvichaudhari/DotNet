@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\RefAndValue3\bin\Debug\net7.0\RefAndValue3.exe
+C:\Users\Asus\Desktop\DotNet\RefAndValue3\bin\Debug\net7.0\RefAndValue3.deps.json
+C:\Users\Asus\Desktop\DotNet\RefAndValue3\bin\Debug\net7.0\RefAndValue3.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\RefAndValue3\bin\Debug\net7.0\RefAndValue3.dll
+C:\Users\Asus\Desktop\DotNet\RefAndValue3\bin\Debug\net7.0\RefAndValue3.pdb
+C:\Users\Asus\Desktop\DotNet\RefAndValue3\obj\Debug\net7.0\RefAndValue3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\RefAndValue3\obj\Debug\net7.0\RefAndValue3.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\RefAndValue3\obj\Debug\net7.0\RefAndValue3.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\RefAndValue3\obj\Debug\net7.0\RefAndValue3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\RefAndValue3\obj\Debug\net7.0\RefAndValue3.dll
+C:\Users\Asus\Desktop\DotNet\RefAndValue3\obj\Debug\net7.0\refint\RefAndValue3.dll
+C:\Users\Asus\Desktop\DotNet\RefAndValue3\obj\Debug\net7.0\RefAndValue3.pdb
+C:\Users\Asus\Desktop\DotNet\RefAndValue3\obj\Debug\net7.0\RefAndValue3.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\RefAndValue3\obj\Debug\net7.0\ref\RefAndValue3.dll

@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\ArraySortingExample\obj\Debug\net7.0\ArraySortingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\ArraySortingExample\obj\Debug\net7.0\ArraySortingExample.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\ArraySortingExample\obj\Debug\net7.0\ArraySortingExample.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\ArraySortingExample\obj\Debug\net7.0\ArraySortingExample.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\ArraySortingExample\bin\Debug\net7.0\ArraySortingExample.exe
+C:\Users\Asus\Desktop\DotNet\ArraySortingExample\bin\Debug\net7.0\ArraySortingExample.deps.json
+C:\Users\Asus\Desktop\DotNet\ArraySortingExample\bin\Debug\net7.0\ArraySortingExample.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\ArraySortingExample\bin\Debug\net7.0\ArraySortingExample.dll
+C:\Users\Asus\Desktop\DotNet\ArraySortingExample\bin\Debug\net7.0\ArraySortingExample.pdb
+C:\Users\Asus\Desktop\DotNet\ArraySortingExample\obj\Debug\net7.0\ArraySortingExample.dll
+C:\Users\Asus\Desktop\DotNet\ArraySortingExample\obj\Debug\net7.0\refint\ArraySortingExample.dll
+C:\Users\Asus\Desktop\DotNet\ArraySortingExample\obj\Debug\net7.0\ArraySortingExample.pdb
+C:\Users\Asus\Desktop\DotNet\ArraySortingExample\obj\Debug\net7.0\ArraySortingExample.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\ArraySortingExample\obj\Debug\net7.0\ref\ArraySortingExample.dll

@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\AssignmentToDo\bin\Debug\net7.0\AssignmentToDo.exe
+C:\Users\Asus\Desktop\DotNet\AssignmentToDo\bin\Debug\net7.0\AssignmentToDo.deps.json
+C:\Users\Asus\Desktop\DotNet\AssignmentToDo\bin\Debug\net7.0\AssignmentToDo.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\AssignmentToDo\bin\Debug\net7.0\AssignmentToDo.dll
+C:\Users\Asus\Desktop\DotNet\AssignmentToDo\bin\Debug\net7.0\AssignmentToDo.pdb
+C:\Users\Asus\Desktop\DotNet\AssignmentToDo\obj\Debug\net7.0\AssignmentToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\AssignmentToDo\obj\Debug\net7.0\AssignmentToDo.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\AssignmentToDo\obj\Debug\net7.0\AssignmentToDo.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\AssignmentToDo\obj\Debug\net7.0\AssignmentToDo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\AssignmentToDo\obj\Debug\net7.0\AssignmentToDo.dll
+C:\Users\Asus\Desktop\DotNet\AssignmentToDo\obj\Debug\net7.0\refint\AssignmentToDo.dll
+C:\Users\Asus\Desktop\DotNet\AssignmentToDo\obj\Debug\net7.0\AssignmentToDo.pdb
+C:\Users\Asus\Desktop\DotNet\AssignmentToDo\obj\Debug\net7.0\AssignmentToDo.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\AssignmentToDo\obj\Debug\net7.0\ref\AssignmentToDo.dll

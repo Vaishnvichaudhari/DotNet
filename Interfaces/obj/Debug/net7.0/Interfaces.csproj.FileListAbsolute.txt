@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\Interfaces\bin\Debug\net7.0\Interfaces.exe
+C:\Users\Asus\Desktop\DotNet\Interfaces\bin\Debug\net7.0\Interfaces.deps.json
+C:\Users\Asus\Desktop\DotNet\Interfaces\bin\Debug\net7.0\Interfaces.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\Interfaces\bin\Debug\net7.0\Interfaces.dll
+C:\Users\Asus\Desktop\DotNet\Interfaces\bin\Debug\net7.0\Interfaces.pdb
+C:\Users\Asus\Desktop\DotNet\Interfaces\obj\Debug\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\Interfaces\obj\Debug\net7.0\Interfaces.dll
+C:\Users\Asus\Desktop\DotNet\Interfaces\obj\Debug\net7.0\refint\Interfaces.dll
+C:\Users\Asus\Desktop\DotNet\Interfaces\obj\Debug\net7.0\Interfaces.pdb
+C:\Users\Asus\Desktop\DotNet\Interfaces\obj\Debug\net7.0\Interfaces.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll

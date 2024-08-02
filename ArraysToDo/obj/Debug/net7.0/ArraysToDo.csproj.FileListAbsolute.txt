@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\ArraysToDo\bin\Debug\net7.0\ArraysToDo.exe
+C:\Users\Asus\Desktop\DotNet\ArraysToDo\bin\Debug\net7.0\ArraysToDo.deps.json
+C:\Users\Asus\Desktop\DotNet\ArraysToDo\bin\Debug\net7.0\ArraysToDo.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\ArraysToDo\bin\Debug\net7.0\ArraysToDo.dll
+C:\Users\Asus\Desktop\DotNet\ArraysToDo\bin\Debug\net7.0\ArraysToDo.pdb
+C:\Users\Asus\Desktop\DotNet\ArraysToDo\obj\Debug\net7.0\ArraysToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\ArraysToDo\obj\Debug\net7.0\ArraysToDo.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\ArraysToDo\obj\Debug\net7.0\ArraysToDo.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\ArraysToDo\obj\Debug\net7.0\ArraysToDo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\ArraysToDo\obj\Debug\net7.0\ArraysToDo.dll
+C:\Users\Asus\Desktop\DotNet\ArraysToDo\obj\Debug\net7.0\refint\ArraysToDo.dll
+C:\Users\Asus\Desktop\DotNet\ArraysToDo\obj\Debug\net7.0\ArraysToDo.pdb
+C:\Users\Asus\Desktop\DotNet\ArraysToDo\obj\Debug\net7.0\ArraysToDo.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\ArraysToDo\obj\Debug\net7.0\ref\ArraysToDo.dll

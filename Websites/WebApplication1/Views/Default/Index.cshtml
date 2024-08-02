@@ -1,0 +1,60 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+Hello!<br />   
+id =@ViewBag.id  
+<br/>
+a =@ViewBag.a
+<br/>
+b =@ViewBag.b
+<br />
+c =@ViewBag.c
+<br />
+
+@{   //Razor code
+    string s = "Vaishnavi";
+    int i = 100;
+    i = ViewBag.a;
+    int c = ViewBag.c;
+
+}
+
+@{
+    if (i % 2 == 0)
+        s = "Even";
+    else
+        s = "Odd";
+}
+i=@i <br/>
+s=@s
+<br />
+
+@{   //razor code with html
+    if (i % 2 == 0)
+    {
+        @:result =Even<br/>
+    }
+    else
+    {
+        @:result =Odd<br/>
+    }
+}
+
+<br />
+//Displaying Html code into Razor contain
+<table border="1">
+    @{
+        for(int j=1; j<5; j++)
+        {
+            <tr>
+            <td>5</td>
+            <td>*</td>
+            <td>@j</td>
+            <td>=</td>
+             <td>@(j*5)</td>
+            </tr>
+        }
+    }</table>

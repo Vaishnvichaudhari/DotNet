@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Desktop\DotNet\Constructor\obj\Debug\net7.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\DotNet\Constructor\obj\Debug\net7.0\Constructor.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\DotNet\Constructor\obj\Debug\net7.0\Constructor.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\DotNet\Constructor\obj\Debug\net7.0\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\DotNet\Constructor\bin\Debug\net7.0\Constructor.exe
+C:\Users\Asus\OneDrive\Desktop\DotNet\Constructor\bin\Debug\net7.0\Constructor.deps.json
+C:\Users\Asus\OneDrive\Desktop\DotNet\Constructor\bin\Debug\net7.0\Constructor.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\DotNet\Constructor\bin\Debug\net7.0\Constructor.dll
+C:\Users\Asus\OneDrive\Desktop\DotNet\Constructor\bin\Debug\net7.0\Constructor.pdb
+C:\Users\Asus\OneDrive\Desktop\DotNet\Constructor\obj\Debug\net7.0\Constructor.dll
+C:\Users\Asus\OneDrive\Desktop\DotNet\Constructor\obj\Debug\net7.0\refint\Constructor.dll
+C:\Users\Asus\OneDrive\Desktop\DotNet\Constructor\obj\Debug\net7.0\Constructor.pdb
+C:\Users\Asus\OneDrive\Desktop\DotNet\Constructor\obj\Debug\net7.0\Constructor.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\DotNet\Constructor\obj\Debug\net7.0\ref\Constructor.dll

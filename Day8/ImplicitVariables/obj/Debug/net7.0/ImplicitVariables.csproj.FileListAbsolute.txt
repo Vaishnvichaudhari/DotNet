@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\Day8\ImplicitVariables\bin\Debug\net7.0\ImplicitVariables.exe
+C:\Users\Asus\Desktop\DotNet\Day8\ImplicitVariables\bin\Debug\net7.0\ImplicitVariables.deps.json
+C:\Users\Asus\Desktop\DotNet\Day8\ImplicitVariables\bin\Debug\net7.0\ImplicitVariables.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\Day8\ImplicitVariables\bin\Debug\net7.0\ImplicitVariables.dll
+C:\Users\Asus\Desktop\DotNet\Day8\ImplicitVariables\bin\Debug\net7.0\ImplicitVariables.pdb
+C:\Users\Asus\Desktop\DotNet\Day8\ImplicitVariables\obj\Debug\net7.0\ImplicitVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\Day8\ImplicitVariables\obj\Debug\net7.0\ImplicitVariables.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\Day8\ImplicitVariables\obj\Debug\net7.0\ImplicitVariables.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\Day8\ImplicitVariables\obj\Debug\net7.0\ImplicitVariables.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\Day8\ImplicitVariables\obj\Debug\net7.0\ImplicitVariables.dll
+C:\Users\Asus\Desktop\DotNet\Day8\ImplicitVariables\obj\Debug\net7.0\refint\ImplicitVariables.dll
+C:\Users\Asus\Desktop\DotNet\Day8\ImplicitVariables\obj\Debug\net7.0\ImplicitVariables.pdb
+C:\Users\Asus\Desktop\DotNet\Day8\ImplicitVariables\obj\Debug\net7.0\ImplicitVariables.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\Day8\ImplicitVariables\obj\Debug\net7.0\ref\ImplicitVariables.dll

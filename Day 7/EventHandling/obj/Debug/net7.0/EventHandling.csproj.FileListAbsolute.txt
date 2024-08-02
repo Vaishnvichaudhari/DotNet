@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\Day 7\EventHandling\bin\Debug\net7.0\EventHandling.exe
+C:\Users\Asus\Desktop\DotNet\Day 7\EventHandling\bin\Debug\net7.0\EventHandling.deps.json
+C:\Users\Asus\Desktop\DotNet\Day 7\EventHandling\bin\Debug\net7.0\EventHandling.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\Day 7\EventHandling\bin\Debug\net7.0\EventHandling.dll
+C:\Users\Asus\Desktop\DotNet\Day 7\EventHandling\bin\Debug\net7.0\EventHandling.pdb
+C:\Users\Asus\Desktop\DotNet\Day 7\EventHandling\obj\Debug\net7.0\EventHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\Day 7\EventHandling\obj\Debug\net7.0\EventHandling.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\Day 7\EventHandling\obj\Debug\net7.0\EventHandling.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\Day 7\EventHandling\obj\Debug\net7.0\EventHandling.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\Day 7\EventHandling\obj\Debug\net7.0\EventHandling.dll
+C:\Users\Asus\Desktop\DotNet\Day 7\EventHandling\obj\Debug\net7.0\refint\EventHandling.dll
+C:\Users\Asus\Desktop\DotNet\Day 7\EventHandling\obj\Debug\net7.0\EventHandling.pdb
+C:\Users\Asus\Desktop\DotNet\Day 7\EventHandling\obj\Debug\net7.0\EventHandling.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\Day 7\EventHandling\obj\Debug\net7.0\ref\EventHandling.dll

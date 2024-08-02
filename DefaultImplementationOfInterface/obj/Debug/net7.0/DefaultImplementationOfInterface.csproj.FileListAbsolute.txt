@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\DefaultImplementationOfInterface\bin\Debug\net7.0\DefaultImplementationOfInterface.exe
+C:\Users\Asus\Desktop\DotNet\DefaultImplementationOfInterface\bin\Debug\net7.0\DefaultImplementationOfInterface.deps.json
+C:\Users\Asus\Desktop\DotNet\DefaultImplementationOfInterface\bin\Debug\net7.0\DefaultImplementationOfInterface.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\DefaultImplementationOfInterface\bin\Debug\net7.0\DefaultImplementationOfInterface.dll
+C:\Users\Asus\Desktop\DotNet\DefaultImplementationOfInterface\bin\Debug\net7.0\DefaultImplementationOfInterface.pdb
+C:\Users\Asus\Desktop\DotNet\DefaultImplementationOfInterface\obj\Debug\net7.0\DefaultImplementationOfInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\DefaultImplementationOfInterface\obj\Debug\net7.0\DefaultImplementationOfInterface.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\DefaultImplementationOfInterface\obj\Debug\net7.0\DefaultImplementationOfInterface.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\DefaultImplementationOfInterface\obj\Debug\net7.0\DefaultImplementationOfInterface.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\DefaultImplementationOfInterface\obj\Debug\net7.0\DefaultImplementationOfInterface.dll
+C:\Users\Asus\Desktop\DotNet\DefaultImplementationOfInterface\obj\Debug\net7.0\refint\DefaultImplementationOfInterface.dll
+C:\Users\Asus\Desktop\DotNet\DefaultImplementationOfInterface\obj\Debug\net7.0\DefaultImplementationOfInterface.pdb
+C:\Users\Asus\Desktop\DotNet\DefaultImplementationOfInterface\obj\Debug\net7.0\DefaultImplementationOfInterface.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\DefaultImplementationOfInterface\obj\Debug\net7.0\ref\DefaultImplementationOfInterface.dll

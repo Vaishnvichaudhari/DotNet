@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\ReflectionExample\bin\Debug\net7.0\ReflectionExample.exe
+C:\Users\Asus\Desktop\DotNet\ReflectionExample\bin\Debug\net7.0\ReflectionExample.deps.json
+C:\Users\Asus\Desktop\DotNet\ReflectionExample\bin\Debug\net7.0\ReflectionExample.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\ReflectionExample\bin\Debug\net7.0\ReflectionExample.dll
+C:\Users\Asus\Desktop\DotNet\ReflectionExample\bin\Debug\net7.0\ReflectionExample.pdb
+C:\Users\Asus\Desktop\DotNet\ReflectionExample\obj\Debug\net7.0\ReflectionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\ReflectionExample\obj\Debug\net7.0\ReflectionExample.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\ReflectionExample\obj\Debug\net7.0\ReflectionExample.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\ReflectionExample\obj\Debug\net7.0\ReflectionExample.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\ReflectionExample\obj\Debug\net7.0\ReflectionExample.dll
+C:\Users\Asus\Desktop\DotNet\ReflectionExample\obj\Debug\net7.0\refint\ReflectionExample.dll
+C:\Users\Asus\Desktop\DotNet\ReflectionExample\obj\Debug\net7.0\ReflectionExample.pdb
+C:\Users\Asus\Desktop\DotNet\ReflectionExample\obj\Debug\net7.0\ReflectionExample.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\ReflectionExample\obj\Debug\net7.0\ref\ReflectionExample.dll

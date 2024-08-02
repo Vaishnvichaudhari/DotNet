@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\Day6\CollectionsExample\bin\Debug\net7.0\CollectionsExample.exe
+C:\Users\Asus\Desktop\DotNet\Day6\CollectionsExample\bin\Debug\net7.0\CollectionsExample.deps.json
+C:\Users\Asus\Desktop\DotNet\Day6\CollectionsExample\bin\Debug\net7.0\CollectionsExample.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\Day6\CollectionsExample\bin\Debug\net7.0\CollectionsExample.dll
+C:\Users\Asus\Desktop\DotNet\Day6\CollectionsExample\bin\Debug\net7.0\CollectionsExample.pdb
+C:\Users\Asus\Desktop\DotNet\Day6\CollectionsExample\obj\Debug\net7.0\CollectionsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\Day6\CollectionsExample\obj\Debug\net7.0\CollectionsExample.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\Day6\CollectionsExample\obj\Debug\net7.0\CollectionsExample.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\Day6\CollectionsExample\obj\Debug\net7.0\CollectionsExample.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\Day6\CollectionsExample\obj\Debug\net7.0\CollectionsExample.dll
+C:\Users\Asus\Desktop\DotNet\Day6\CollectionsExample\obj\Debug\net7.0\refint\CollectionsExample.dll
+C:\Users\Asus\Desktop\DotNet\Day6\CollectionsExample\obj\Debug\net7.0\CollectionsExample.pdb
+C:\Users\Asus\Desktop\DotNet\Day6\CollectionsExample\obj\Debug\net7.0\CollectionsExample.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\Day6\CollectionsExample\obj\Debug\net7.0\ref\CollectionsExample.dll

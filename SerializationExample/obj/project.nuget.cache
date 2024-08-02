@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iamQKIgOcOCsKBLhEhldX0qJr2BrtnTLic8JLZxZDNigtL+0NHzROUwsaegtWt3Rx5o2gUm1eWDDuIkTJUHNeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\DotNet\\SerializationExample\\SerializationExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

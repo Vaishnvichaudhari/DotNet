@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\DotNet\TestAccessSpecifiers\bin\Debug\net7.0\TestAccessSpecifiers.deps.json
+C:\Users\Asus\Desktop\DotNet\TestAccessSpecifiers\bin\Debug\net7.0\TestAccessSpecifiers.dll
+C:\Users\Asus\Desktop\DotNet\TestAccessSpecifiers\bin\Debug\net7.0\TestAccessSpecifiers.pdb
+C:\Users\Asus\Desktop\DotNet\TestAccessSpecifiers\obj\Debug\net7.0\TestAccessSpecifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\TestAccessSpecifiers\obj\Debug\net7.0\TestAccessSpecifiers.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\TestAccessSpecifiers\obj\Debug\net7.0\TestAccessSpecifiers.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\TestAccessSpecifiers\obj\Debug\net7.0\TestAccessSpecifiers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\TestAccessSpecifiers\obj\Debug\net7.0\TestAccessSpecifiers.dll
+C:\Users\Asus\Desktop\DotNet\TestAccessSpecifiers\obj\Debug\net7.0\refint\TestAccessSpecifiers.dll
+C:\Users\Asus\Desktop\DotNet\TestAccessSpecifiers\obj\Debug\net7.0\TestAccessSpecifiers.pdb
+C:\Users\Asus\Desktop\DotNet\TestAccessSpecifiers\obj\Debug\net7.0\ref\TestAccessSpecifiers.dll

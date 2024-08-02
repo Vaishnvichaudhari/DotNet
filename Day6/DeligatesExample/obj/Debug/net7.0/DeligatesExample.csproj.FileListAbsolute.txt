@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DotNet\Day6\DeligatesExample\bin\Debug\net7.0\DeligatesExample.exe
+C:\Users\Asus\Desktop\DotNet\Day6\DeligatesExample\bin\Debug\net7.0\DeligatesExample.deps.json
+C:\Users\Asus\Desktop\DotNet\Day6\DeligatesExample\bin\Debug\net7.0\DeligatesExample.runtimeconfig.json
+C:\Users\Asus\Desktop\DotNet\Day6\DeligatesExample\bin\Debug\net7.0\DeligatesExample.dll
+C:\Users\Asus\Desktop\DotNet\Day6\DeligatesExample\bin\Debug\net7.0\DeligatesExample.pdb
+C:\Users\Asus\Desktop\DotNet\Day6\DeligatesExample\obj\Debug\net7.0\DeligatesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DotNet\Day6\DeligatesExample\obj\Debug\net7.0\DeligatesExample.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DotNet\Day6\DeligatesExample\obj\Debug\net7.0\DeligatesExample.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DotNet\Day6\DeligatesExample\obj\Debug\net7.0\DeligatesExample.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DotNet\Day6\DeligatesExample\obj\Debug\net7.0\DeligatesExample.dll
+C:\Users\Asus\Desktop\DotNet\Day6\DeligatesExample\obj\Debug\net7.0\refint\DeligatesExample.dll
+C:\Users\Asus\Desktop\DotNet\Day6\DeligatesExample\obj\Debug\net7.0\DeligatesExample.pdb
+C:\Users\Asus\Desktop\DotNet\Day6\DeligatesExample\obj\Debug\net7.0\DeligatesExample.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DotNet\Day6\DeligatesExample\obj\Debug\net7.0\ref\DeligatesExample.dll
